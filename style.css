@@ -67,8 +67,8 @@ header{
 .sobre, .servicos{
     background-color: #633C8F;
     margin: 20px auto;
-    padding: 20px;
-    width: 700px;
+    padding: 2vh 2vw;
+    max-width: 90%;
     border-radius: 5px;
     color:#3b037a;
 }
