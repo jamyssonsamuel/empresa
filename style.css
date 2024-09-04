@@ -41,7 +41,7 @@ header{
 
 .empresa{
     font-size: 3em;
-    color: white;
+    color: #3b037a;
     padding: 70px;
     font-weight: bolder;
     text-transform: uppercase;
@@ -89,7 +89,7 @@ header{
     padding: 2vh 2vw;
     max-width: 90%;
     border-radius: 5px;
-    color: white;
+    color: #3b037a;
     box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.575);
 }
 
