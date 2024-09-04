@@ -78,8 +78,10 @@ header{
 .img-centralizada p{
     color: white;
     text-align: center;
-    padding: 2vh 2vw;
-    padding-top: 15px;
+    padding: 1vh 2vw;
+    font-size: 1rem;
+    line-height: 1.5;
+    word-wrap: break-word;
 }
 
 .sobre, .servicos{
